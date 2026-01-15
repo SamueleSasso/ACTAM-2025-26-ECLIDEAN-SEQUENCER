@@ -210,4 +210,4 @@ This approach ensures that tracks with completely different time intervals (odd 
 
 **[Your Name]**
 * GitHub: [@dadymazz](https://github.com/dadymazz) [@SamueleSasso](https://github.com/SamueleSasso) 
-* Project Link: [https://github.com/dadymazz/ACTAM-2025-26-EUCLIDEAN-SEQUENCER](https://github.com/dadymazz/ACTAM-2025-26-EUCLIDEAN-SEQUENCER)
+* Project Link: [https://github.com/dadymazz/ACTAM-2025-26-EUCLIDEAN-SEQUENCER](https://github.com/SamueleSasso/ACTAM-2025-26-EUCLIDEAN-SEQUENCER)
