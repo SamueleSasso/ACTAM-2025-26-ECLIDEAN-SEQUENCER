@@ -9,14 +9,14 @@ const masterPanner = new Tone.Panner(0).toDestination();
 
 //Samples List
 const samples = {
-    Kick: "https://raw.githubusercontent.com/dadymazz/ACTAM-2025-26-EUCLIDEAN-SEQUENCER/main/samples/Kick.wav",
-    Snare: "https://raw.githubusercontent.com/dadymazz/ACTAM-2025-26-EUCLIDEAN-SEQUENCER/main/samples/Snare.wav",
-    ClosedHat: "https://raw.githubusercontent.com/dadymazz/ACTAM-2025-26-EUCLIDEAN-SEQUENCER/main/samples/ClosedHat.wav",
-    OpenHat: "https://raw.githubusercontent.com/dadymazz/ACTAM-2025-26-EUCLIDEAN-SEQUENCER/main/samples/OpenHat.wav",
-    Ride: "https://raw.githubusercontent.com/dadymazz/ACTAM-2025-26-EUCLIDEAN-SEQUENCER/main/samples/Ride.wav",
-    MidTom: "https://raw.githubusercontent.com/dadymazz/ACTAM-2025-26-EUCLIDEAN-SEQUENCER/main/samples/MidTom.wav",
-    LowTom: "https://raw.githubusercontent.com/dadymazz/ACTAM-2025-26-EUCLIDEAN-SEQUENCER/main/samples/LowTom.wav",
-    RimShot: "https://raw.githubusercontent.com/dadymazz/ACTAM-2025-26-EUCLIDEAN-SEQUENCER/main/samples/RimShot.wav",
+    Kick: "https://raw.githubusercontent.com/SamueleSasso/ACTAM-2025-26-EUCLIDEAN-SEQUENCER/main/samples/Kick.wav",
+    Snare: "https://raw.githubusercontent.com/SamueleSasso/ACTAM-2025-26-EUCLIDEAN-SEQUENCER/main/samples/Snare.wav",
+    ClosedHat: "https://raw.githubusercontent.com/SamueleSasso/ACTAM-2025-26-EUCLIDEAN-SEQUENCER/main/samples/ClosedHat.wav",
+    OpenHat: "https://raw.githubusercontent.com/SamueleSasso/ACTAM-2025-26-EUCLIDEAN-SEQUENCER/main/samples/OpenHat.wav",
+    Ride: "https://raw.githubusercontent.com/SamueleSasso/ACTAM-2025-26-EUCLIDEAN-SEQUENCER/main/samples/Ride.wav",
+    MidTom: "https://raw.githubusercontent.com/SamueleSasso/ACTAM-2025-26-EUCLIDEAN-SEQUENCER/main/samples/MidTom.wav",
+    LowTom: "https://raw.githubusercontent.com/SamueleSasso/ACTAM-2025-26-EUCLIDEAN-SEQUENCER/main/samples/LowTom.wav",
+    RimShot: "https://raw.githubusercontent.com/SamueleSasso/ACTAM-2025-26-EUCLIDEAN-SEQUENCER/main/samples/RimShot.wav",
 };
 
 //Security Timeout
@@ -257,7 +257,7 @@ const presets = {
         ]
     },
     reggae: {
-        bpm: 70, 
+        bpm: 70,
         tracks: [
             { steps: 16, pulses: 1, offset: 8, sample: 'Kick', adsr: { attack: 0.01, decay: 0.3, sustain: 0.7, release: 0.5 } },
             { steps: 16, pulses: 1, offset: 8, sample: 'RimShot', adsr: { attack: 0.001, decay: 0.05, sustain: 0.2, release: 0.05 } },
