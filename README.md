@@ -45,7 +45,7 @@ Since this application relies on modern web standards and ES6 modules, it is bes
 
 1.  **Clone the repository**
     ```bash
-    git clone [https://github.com/dadymazz/ACTAM-2025-26-EUCLIDEAN-SEQUENCER.git](https://github.com/dadymazz/ACTAM-2025-26-EUCLIDEAN-SEQUENCER.git)
+    git clone https://github.com/SamueleSasso/ACTAM-2025-26-EUCLIDEAN-SEQUENCER.git
     ```
 2.  **Navigate to the folder**
     ```bash
@@ -210,4 +210,4 @@ This approach ensures that tracks with completely different time intervals (odd 
 
 **[Your Name]**
 * GitHub: [@dadymazz](https://github.com/dadymazz) [@SamueleSasso](https://github.com/SamueleSasso) 
-* Project Link: [https://github.com/dadymazz/ACTAM-2025-26-EUCLIDEAN-SEQUENCER](https://github.com/SamueleSasso/ACTAM-2025-26-EUCLIDEAN-SEQUENCER)
+* Project Link: [https://github.com/SamueleSasso/ACTAM-2025-26-EUCLIDEAN-SEQUENCER](https://github.com/SamueleSasso/ACTAM-2025-26-EUCLIDEAN-SEQUENCER)
